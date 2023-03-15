@@ -9,6 +9,6 @@ W aplikacji można:
     w koszyku można mieniać ilość danego produktu
     wyświetla się suma do zapłacenia za wszystko
     można założyć konto do zalogowania się
-    dostępne konto admina nazwa: AdminJohn hasło: admin
+    dostępne konto admina nazwa: admin hasło: admin
     admin może dodawać, usuwać, ustalać cenę nowego produktu
     admin może usuwać produkty z listy produków dostępnych
